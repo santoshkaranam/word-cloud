@@ -1,3 +1,11 @@
+![image](https://github.com/santoshkaranam/word-cloud/assets/52455330/63e85837-854c-43e6-af38-0e44c2269287)
+
+What is word cloud?
+An image composed of words used in a particular text or subject, in which the size of each word indicates its frequency or importance.
+
+
+## Code
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
